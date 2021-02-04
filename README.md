@@ -6,3 +6,5 @@
 
 ## output.txt
 준비된 데이터에는 서버에러난 url도 있고 누락된 itemid도 있어서 output.txt에 각 누락되거나 에러난 itemid저장 -> 이건 수작업으로 등록 예정
+
+## 결과
