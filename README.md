@@ -8,3 +8,4 @@
 준비된 데이터에는 서버에러난 url도 있고 누락된 itemid도 있어서 output.txt에 각 누락되거나 에러난 itemid저장 -> 이건 수작업으로 등록 예정
 
 ## 결과
+![image](https://user-images.githubusercontent.com/39962160/106853504-2648db00-66fd-11eb-80db-5eff6dbeb5ce.png)
